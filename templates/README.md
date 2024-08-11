@@ -2,7 +2,7 @@
 
 This is the official repository for the Tipi App Store. It contains all the apps that are available for download on [Tipi](https://github.com/runtipi/runtipi).
 
-## How to sumbit an app
+## How to submit an app
 
 If you want to see new apps on Tipi you can either:
 
