@@ -1,0 +1,14 @@
+{
+    "name": "qBit Manage",
+    "id": "qbit-manage",
+    "available": true,
+    "short_desc": "This is a program used to manage your qBittorrent instance.",
+    "author": "StuffAnThings",
+    "categories": ["utilities"],
+    "description": "This is a program used to manage your qBittorrent instance.",
+    "tipi_version": 1,
+    "version": "v4.1.7",
+    "source": "https://github.com/StuffAnThings",
+    "exposable": false,
+    "supported_architectures": ["arm64", "amd64"]
+  }
